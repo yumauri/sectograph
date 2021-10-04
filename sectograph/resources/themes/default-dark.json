@@ -1,0 +1,31 @@
+{
+  "face": {
+    "tick": {
+      "hour": ["white", 3],
+      "minute": ["white", 1]
+    },
+    "line": {
+      "hour": ["gray", 1]
+    },
+    "hours": "white"
+  },
+  "center": {
+    "back": "gray",
+    "color": "lightblue",
+    "font": "black"
+  },
+  "hands": {
+    "smooth": false,
+    "hour": ["red", 5],
+    "minute": ["red", 2],
+    "second": ["red", 1],
+    "back": ["grey", 1]
+  },
+  "events": {
+    "font": "white"
+  },
+  "buttons": {
+    "border": "gray",
+    "background": "rgba(128, 128, 128, 10%)"
+  }
+}

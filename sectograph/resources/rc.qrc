@@ -1,0 +1,52 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource>
+    <file>themes/default-dark.json</file>
+    <file>themes/default-light.json</file>
+
+    <file>icons/icon-bw.svg</file>
+    <file>icons/icon-bw-fill.svg</file>
+    <file>icons/icon-color.svg</file>
+
+    <file>fonts/Raleway-Black.ttf</file>
+    <file>fonts/Raleway-BlackItalic.ttf</file>
+    <file>fonts/Raleway-Bold.ttf</file>
+    <file>fonts/Raleway-BoldItalic.ttf</file>
+    <file>fonts/Raleway-ExtraBold.ttf</file>
+    <file>fonts/Raleway-ExtraBoldItalic.ttf</file>
+    <file>fonts/Raleway-ExtraLight.ttf</file>
+    <file>fonts/Raleway-ExtraLightItalic.ttf</file>
+    <file>fonts/Raleway-Italic.ttf</file>
+    <file>fonts/Raleway-Light.ttf</file>
+    <file>fonts/Raleway-LightItalic.ttf</file>
+    <file>fonts/Raleway-Medium.ttf</file>
+    <file>fonts/Raleway-MediumItalic.ttf</file>
+    <file>fonts/Raleway-Regular.ttf</file>
+    <file>fonts/Raleway-SemiBold.ttf</file>
+    <file>fonts/Raleway-SemiBoldItalic.ttf</file>
+    <file>fonts/Raleway-Thin.ttf</file>
+    <file>fonts/Raleway-ThinItalic.ttf</file>
+    <file>fonts/Reallyway.ttf</file>
+
+    <file>sounds/announcement.wav</file>
+    <file>sounds/chime.wav</file>
+    <file>sounds/concise.wav</file>
+    <file>sounds/delicate-like-sand-paper.wav</file>
+    <file>sounds/gesture.wav</file>
+    <file>sounds/graceful.wav</file>
+    <file>sounds/guess-what.wav</file>
+    <file>sounds/here-it-is.wav</file>
+    <file>sounds/hey-look-at-me.wav</file>
+    <file>sounds/hurry.wav</file>
+    <file>sounds/i-demand-attention.wav</file>
+    <file>sounds/look-this-is-what-i-was-talking-about.wav</file>
+    <file>sounds/losing-patience.wav</file>
+    <file>sounds/oh-finally.wav</file>
+    <file>sounds/oringz-15.wav</file>
+    <file>sounds/oringz-16.wav</file>
+    <file>sounds/scratch.wav</file>
+    <file>sounds/suppressed.wav</file>
+    <file>sounds/this-guitar.wav</file>
+    <file>sounds/youve-been-informed.wav</file>
+  </qresource>
+</RCC>
